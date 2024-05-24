@@ -1,0 +1,14 @@
+ssdb/var/data/000005.ldb
+ssdb/var/data/000006.log
+ssdb/var/data/CURRENT
+ssdb/var/data/LOCK
+ssdb/var/data/LOG
+ssdb/var/data/LOG.old
+ssdb/var/data/MANIFEST-000004
+ssdb/var/meta/000005.log
+ssdb/var/meta/CURRENT
+ssdb/var/meta/LOCK
+ssdb/var/meta/LOG
+ssdb/var/meta/LOG.old
+ssdb/var/meta/MANIFEST-000004
+ssdb/log.txt
